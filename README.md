@@ -1,6 +1,6 @@
-# HangfireDemo
+# hangfire.jobs
 
-HangfireDemo is an ASP.NET 8 application showcasing the integration of Hangfire for background job processing. This repository provides examples of different types of background jobs, including fire-and-forget, delayed, recurring, and continuation jobs.
+hangfire.jobs is an ASP.NET 8 application demonstrating the integration of Hangfire for background job processing. This repository provides examples of different types of background jobs, including fire-and-forget, delayed, recurring, and continuation jobs.
 
 ## Description
 
@@ -15,7 +15,7 @@ Hangfire is a .NET library that simplifies the execution of background tasks in 
 
 ## Getting Started
 
-To run the HangfireDemo project locally:
+To run the hangfire.jobs project locally:
 
 1. Clone the repository.
 2. Install the .NET 8 SDK and Hangfire NuGet packages.
